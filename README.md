@@ -16,4 +16,4 @@
 
 [在线链接](https://raw.githubusercontent.com/flkGit/shadowrocket-rule/refs/heads/main/sr_bypass_adblock.conf)
 
-![](1_1032165309_171_85_3_974476456_add127211974745056e3f8b3fd72cfae.png)
+![](rule-qrcode.png)
